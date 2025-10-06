@@ -33,8 +33,3 @@ Here is a rough layout of what this overlay includes:
 - SLURM & job submission support:  
   - `slurm_commands.md` – list of SLURM commands I use  
   - `submit_genie_v3_04_00_nu_noRock_AR23_1E19POT.slurm` – example job submission script  
-
----
-
-If you like, I can generate this in a format ready to commit (with front matter, badges, minimal tweaks) and post it back to you. Do you want me to provide that “ready to drop in” version?
-::contentReference[oaicite:0]{index=0}
