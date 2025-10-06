@@ -1,4 +1,4 @@
-# genie-helper-scripts2x2
+# Genie Helper Scripts for 2x2 on NERSC
 
 This is a personal overlay of modifications built on top of the DUNE `2x2_sim` simulation framework. It contains **only** the files I have altered, added, or used specially for GENIE runs, analysis, and plotting.
 
